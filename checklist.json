@@ -1,0 +1,40 @@
+{
+    "userId":"lulucomey",
+    "activities":[
+        {
+            "id":1,
+            "act_name":"Laundry",
+            "act_description":"Do laundry for a week clothes",
+            "act_startdate":"01/01/2024",
+            "act_completed":"",
+            "act_status":0
+        },
+
+        {
+            "id":2,
+            "act_name":"Grocery Shopping",
+            "act_description":"Buy milk, vegetables, chicken",
+            "act_startdate":"02/01/2024",
+            "act_completed":"",
+            "act_status":0
+        },
+
+        {
+            "id":3,
+            "act_name":"Jogging",
+            "act_description":"Lose 5KG before Raya",
+            "act_startdate":"05/01/2024",
+            "act_completed":"",
+            "act_status":0
+        },
+
+        {
+            "id":4,
+            "act_name":"Pay Bills",
+            "act_description":"TNB, Digi, TIME, Water, IWK",
+            "act_startdate":"07/01/2024",
+            "act_completed":"",
+            "act_status":0
+        }
+    ]
+}
